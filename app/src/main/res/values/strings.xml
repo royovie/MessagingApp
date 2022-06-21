@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lets_Chat</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_profile">Profile</string>
+
+
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_message">Type here</string>
+
+
+    <string name="button_login">Login</string>
+    <string name="button_signup">Signup</string>
+    <string name="button_apply">Apply</string>
+    <string name="button_delete">Delete</string>
+
+
+    <string name="text_signup"><u>No account? Go to Signup</u></string>
+    <string name="text_Login"><u>Already have an account? Go to Login</u></string>
+
+    <string name="hello_story_update_fragment">Hello story update fragment</string>
+    <string name="hello_chats_fragment">Hello chats fragment</string>
+    <string name="hello_story_fragment">Hello story fragment</string>
+    <string name="send_button_text">send</string>
+</resources>
